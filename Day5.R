@@ -1,4 +1,3 @@
-setwd("~/Advent Code")
 rm(list = ls())
 library(plyr)
 library(tidyverse)
